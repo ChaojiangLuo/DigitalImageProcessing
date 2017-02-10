@@ -1,2 +1,3 @@
 # DigitalImageProcessing
-A repository hold digital image processing samples
+
+This is a repository hold digital image processing samples.
