@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ColorFilter/ColorFilter.iml" filepath="$PROJECT_DIR$/ColorFilter/ColorFilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/DigitalImageProcessing.iml" filepath="$PROJECT_DIR$/DigitalImageProcessing.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
